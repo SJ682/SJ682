@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SJ682
 - 👀 I’m interested in android development and Networking
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Digital Marketing
 - 💞️ I’m looking to work on android project
 - 📫 How to reach me: come in a parallel world
 
